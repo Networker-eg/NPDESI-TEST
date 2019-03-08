@@ -6,3 +6,4 @@ vlan 30
 name engineering 
 vlan 40 
 it2
+aaa authen login console local raduis
